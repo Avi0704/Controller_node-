@@ -1,0 +1,11 @@
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-F_Cu.gbr'.
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-B_Cu.gbr'.
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-F_Paste.gbr'.
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-B_Paste.gbr'.
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-F_Silkscreen.gbr'.
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-B_Silkscreen.gbr'.
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-F_Mask.gbr'.
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-B_Mask.gbr'.
+Plotted to '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-Edge_Cuts.gbr'.
+Created Gerber job file '/home/avinash/test1/esp32_usb/CAN_Controller/CAN_Controller-job.gbrjob'.
+Info: Done.
